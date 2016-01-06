@@ -1,0 +1,76 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BQ25100
+D TI MOSFET Driver
+$ENDCMP
+#
+$CMP BQ51003
+D TI MOSFET Driver
+$ENDCMP
+#
+$CMP BSS138
+D 50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23
+K N-Channel MOSFET Logic Level
+F http://www.fairchildsemi.com/ds/BS/BSS138.pdf
+$ENDCMP
+#
+$CMP BSS138W
+D 50V Vds, 0.2A Id, N-Channel MOSFET, SOT-323
+K N-Channel MOSFET Logic Level
+F http://www.diodes.com/_files/datasheets/ds30206.pdf
+$ENDCMP
+#
+$CMP CC2650F128RSM
+D TI SimpleLink Multistandard Wireless MCU
+F /Users/aaronpbrooks/Documents/Professional & Education/BSC/Batteries/Inductive Charging/Hardware/CC2650/cc2650.pdf
+$ENDCMP
+#
+$CMP CSD16301Q2
+D 25V Vds, 5A Id, N-Channel NexFET MOSFET, SON 2mm x 2mm
+K N-Channel MOSFET Logic Level
+F http://www.ti.com/lit/ds/symlink/csd16301q2.pdf
+$ENDCMP
+#
+$CMP Crystal_Oscillator
+D Four pin crystal
+K Quartz, Ceramic, Filter, Resonator
+$ENDCMP
+#
+$CMP Net-Tie
+D Net-Tie
+$ENDCMP
+#
+$CMP TLV717xx
+D TI Linear Regulator
+K Regulator
+$ENDCMP
+#
+$CMP TPS28225DRB
+D TI MOSFET Driver
+$ENDCMP
+#
+$CMP USB_MICRO
+D micro/mini connector
+K USB USB_mini USB_micro
+$ENDCMP
+#
+$CMP bq500212A
+D TI Wireless Power Controller (TX)
+$ENDCMP
+#
+$CMP bq5105xB
+D TI Wireless Power Receiver (RX) and Battery Charger
+F /Users/aaronpbrooks/Documents/Professional & Education/BSC/Batteries/Inductive Charging/Hardware/BQ51050/bq51050b.pdf
+$ENDCMP
+#
+$CMP bq5105xB_DSBGA
+D TI Wireless Power Receiver (RX) and Battery Charger
+F /Users/aaronpbrooks/Documents/Professional & Education/BSC/Batteries/Inductive Charging/Hardware/BQ51050/bq51050b.pdf
+$ENDCMP
+#
+$CMP bq5105xB_VQFN
+D TI Wireless Power Receiver (RX) and Battery Charger
+F /Users/aaronpbrooks/Documents/Professional & Education/BSC/Batteries/Inductive Charging/Hardware/BQ51050/bq51050b.pdf
+$ENDCMP
+#
+#End Doc Library

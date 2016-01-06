@@ -1,0 +1,11 @@
+(module Measurement_Point_Round-SMD-Pad_Tiny placed (layer F.Cu) (tedit 56893EA4)
+  (descr "Mesurement Point, Round, SMD Pad, DM 1.5mm,")
+  (tags "Mesurement Point, Round, SMD Pad, DM 1.5mm,")
+  (fp_text reference CHG1 (at 0 -2.54) (layer F.SilkS)
+    (effects (font (size 0.4572 0.4572) (thickness 0.1143)))
+  )
+  (fp_text value TEST_1P (at 1.27 2.54) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 smd circle (at 0 0) (size 0.508 0.508) (layers F.Cu F.Paste F.Mask))
+)
